@@ -12,3 +12,5 @@ type: Plug
 standard: uk
 ---
 NETVIP RGBW Mini Smart Socket Plug (UK)
+---
+This plug needs Tasmota 7+ to display the colour picker in the Web GUI
